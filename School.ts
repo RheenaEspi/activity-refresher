@@ -3,32 +3,32 @@ import { StudentList } from "./StudentList";
 //update course, college and address
 const student1 = new Student(
     "2015-105867",
-    "BSCPE",
-    "CEIT",
-    "Carlo",
+    "BSIT",
+    "CCS",
+    "John Carlo",
     20,
     "MALE",
-    "PASAY CITY"
+    "TERESA RIZAL"
 );
 
 const student2 = new Student(
     "2015-105868",
-    "BSCPE",
-    "CEIT",
+    "BSIT",
+    "CCS",
     "Jhon Rhay",
     20,
     "MALE",
-    "PASAY CITY"
+    "ANTIPOLO RIZAL"
 );
 
 const student3 = new Student(
     "2015-105869",
-    "BSCPE",
-    "CEIT",
+    "BSIT",
+    "CCS",
     "Jhon Rhay",
     20,
     "MALE",
-    "PASAY CITY"
+    "BINANGONAN RIZAL"
 );
 
 const studentList = new StudentList([
