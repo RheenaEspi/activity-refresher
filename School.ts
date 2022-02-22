@@ -1,11 +1,11 @@
 import { Student } from "./Student";
 import { StudentList } from "./StudentList";
-
+//update course, college and address
 const student1 = new Student(
     "2015-105867",
     "BSCPE",
     "CEIT",
-    "Jhon Rhay",
+    "Carlo",
     20,
     "MALE",
     "PASAY CITY"
