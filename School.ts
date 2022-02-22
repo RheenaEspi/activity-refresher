@@ -5,7 +5,7 @@ const student1 = new Student(
     "2015-105867",
     "BSIT",
     "CCS",
-    "John Carlo",
+    "Jhon Rhay",
     20,
     "MALE",
     "TERESA RIZAL"
